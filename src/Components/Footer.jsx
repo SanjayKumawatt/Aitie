@@ -64,10 +64,10 @@ const Footer = () => {
                             <div className="flex items-start gap-3">
                                 <Mail className="text-sky-500 mt-1 flex-shrink-0" size={18} />
                                 <a
-                                    href="mailto:support@aitietechnologies.in"
+                                    href="mailto:support@aitietech.in"
                                     className="text-sm text-gray-400 hover:text-white transition-colors"
                                 >
-                                    support@aitietechnologies.in
+                                    support@aitietech.in
                                 </a>
                             </div>
 

@@ -68,8 +68,8 @@ const Contact = () => {
                     </div>
                     <div>
                       <h4 className="font-semibold text-lg mb-1">Email Us</h4>
-                      <a href="mailto:support@aitietechnologies.in" className="text-slate-300 hover:text-white transition-colors">
-                        support@aitietechnologies.in
+                      <a href="mailto:support@aitietech.in" className="text-slate-300 hover:text-white transition-colors">
+                        support@aitietech.in
                       </a>
                     </div>
                   </div>
