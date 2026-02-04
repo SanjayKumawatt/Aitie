@@ -73,7 +73,7 @@ const Header = () => {
           {/* Logo Section */}
           <Link to="/" className="flex items-center gap-2 group">
             {/* Placeholder Icon/Logo */}
-            <img src={logo} className='h-13 mb-2' alt="" />
+            <img src={logo} className='h-11 ' alt="" />
             <div className="flex flex-col">
               <span className="text-xl font-bold leading-none tracking-tight text-gray-900 uppercase">
                 AITIE TECHNOLOGIES
